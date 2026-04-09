@@ -1,0 +1,6 @@
+Detector,Accuracy (%),TPR (%),FPR (%),F1-Score,Avg Latency (ms)
+HyFD,100.0,100.0,0.0,1.0,488.7
+DriftOnly,100.0,100.0,0.0,1.0,47.0
+OODOnly,83.3,100.0,100.0,0.909,0.4
+UncertaintyOnly,83.3,80.0,0.0,0.889,57.8
+QualityOnly,66.7,60.0,0.0,0.75,0.1

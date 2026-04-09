@@ -1,0 +1,6 @@
+detector,corrupted_data,data_drift,missing_data,no_failure,noisy_features,ood_samples
+DriftOnly,100.0,100.0,100.0,100.0,100.0,100.0
+HyFD,100.0,100.0,100.0,100.0,100.0,100.0
+OODOnly,100.0,100.0,100.0,0.0,100.0,100.0
+QualityOnly,100.0,0.0,0.0,100.0,100.0,100.0
+UncertaintyOnly,0.0,100.0,100.0,100.0,100.0,100.0
