@@ -128,7 +128,7 @@ If you use this code, please cite:
 @article{hyfd2025,
   title={HyFD: A Hybrid Multi-Signal Framework for Automated Discovery
          of Hidden Failure Modes in Production Machine Learning Systems},
-  author={Anonymous},
+  author={SOURAB},
   journal={Journal of Machine Learning Research},
   year={2025}
 }
